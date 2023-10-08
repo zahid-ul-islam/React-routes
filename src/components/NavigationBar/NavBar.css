@@ -1,0 +1,15 @@
+.navLink a{
+    text-decoration: none;
+    color: white;
+}
+.navLink a:hover{
+    color: red;
+}
+.navLink{
+    display: flex;
+    gap: 4px;
+    background-color: black;
+    padding: 4px 6px;
+    justify-content: center;
+    
+}
